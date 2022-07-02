@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer;Always+learning+new+things&width=500&height=50"></a>
  
-<img align="right" alt="GIF" height="160px" src="https://c.tenor.com/LSDeBe2JAfoAAAAC/cat-coding.gif" />
+<img align="right" alt="GIF" height="220px" src="https://media2.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif?cid=790b7611a92873353aa7405d62986cb96a5d8cebacce5a52&rid=giphy.gif&ct=g" />
 
 
 ### Skills
