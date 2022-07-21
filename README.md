@@ -34,7 +34,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a href="http://www.github.com/Burcubayik"><img src="https://github-readme-stats.vercel.app/api?username=Burcubayik&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="Burcubayik's GitHub stats" /></a>
 
 
-
+<h3 align="left">Latest Blog Posts</h3>
+✍️ <a href="https://medium.com/@burcu.bayik98/facade-design-pattern-e0b341a15786"  style="max-width:100%;">Facade Design Pattern</a> <br>
+✍️ <a href="https://medium.com/@burcu.bayik98/javada-lambda-expressions-17f14a30726d"  style="max-width:100%;">Java’da Lambda Expressions</a> <br> 
+✍️ <a href="https://medium.com/@burcu.bayik98/git-temellerine-giri%C5%9F-3984a9589f02"  style="max-width:100%;">Git Temellerine Giriş</a> <br>
+✍️ <a href="https://medium.com/@burcu.bayik98/git-nedir-f13af4e1da56"  style="max-width:100%;">Git Nedir?</a> <br>
+✍️ <a href="https://medium.com/@burcu.bayik98/javada-metot-kullan%C4%B1m%C4%B1-8e6898410751"  style="max-width:100%;">Java’da Metot Kullanımı</a> <br><br>
+👉️ <a href="https://medium.com/@burcu.bayik98"  style="max-width:100%;">Stay Tuned For More</a>
 
 
 
