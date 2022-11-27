@@ -36,10 +36,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <h3 align="left">Latest Blog Posts</h3>
 ✍️ <a href="REST"  style="max-width:100%;">REST</a> <br><br>
-✍️ <a href="https://medium.com/@burcu.bayik98/http-durum-kodlar%C4%B1-e0ac86618291"  style="max-width:100%;">HTTP Durum Kodları</a> <br><br>
-✍️ <a href="https://medium.com/@burcu.bayik98/multithreading-68ae3fd73c6e"  style="max-width:100%;">MultiThreading</a> <br><br>
-✍️ <a href="https://medium.com/@burcu.bayik98/http-keywords-326675965679"  style="max-width:100%;">HTTP Keywords</a> <br><br>
-✍️ <a href="https://medium.com/@burcu.bayik98/spring-boot-validasyon-5b2f9de8740c"  style="max-width:100%;">Spring Boot — Validasyon</a> <br><br>
+✍️ <a href="https://medium.com/@burcu.bayik98/http-durum-kodlar%C4%B1-e0ac86618291"  style="max-width:100%;">HTTP Durum Kodları</a> <br>
+✍️ <a href="https://medium.com/@burcu.bayik98/multithreading-68ae3fd73c6e"  style="max-width:100%;">MultiThreading</a> <br>
+✍️ <a href="https://medium.com/@burcu.bayik98/http-keywords-326675965679"  style="max-width:100%;">HTTP Keywords</a> <br>
+✍️ <a href="https://medium.com/@burcu.bayik98/spring-boot-validasyon-5b2f9de8740c"  style="max-width:100%;">Spring Boot — Validasyon</a> <br>
 ✍️ <a href="https://medium.com/@burcu.bayik98/facade-design-pattern-e0b341a15786"  style="max-width:100%;">Facade Design Pattern</a> <br>
 ✍️ <a href="https://medium.com/@burcu.bayik98/javada-lambda-expressions-17f14a30726d"  style="max-width:100%;">Java’da Lambda Expressions</a> <br> 
 ✍️ <a href="https://medium.com/@burcu.bayik98/git-temellerine-giri%C5%9F-3984a9589f02"  style="max-width:100%;">Git Temellerine Giriş</a> <br>
