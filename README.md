@@ -22,7 +22,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/Burcu#1452" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Burcubayik" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/byk.brcu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/burcubayik" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@burcu.bayik98" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://discord.com/users/Burcu#1452" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/burcubayik" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/byk.brcu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/burcubayik" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@burcubayik" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a></p>
 
 
 
@@ -30,22 +30,22 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <b>My GitHub Stats</b>
 
-<a href="https://github.com/Burcubayik" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Burcubayik&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-<a href="http://www.github.com/Burcubayik"><img src="https://github-readme-stats.vercel.app/api?username=Burcubayik&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="Burcubayik's GitHub stats" /></a>
+<a href="https://github.com/burcubayik" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Burcubayik&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/burcubayik"><img src="https://github-readme-stats.vercel.app/api?username=Burcubayik&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="Burcubayik's GitHub stats" /></a>
 
 
 <h3 align="left">Latest Blog Posts</h3>
-✍️ <a href="https://medium.com/@burcu.bayik98/rest-17cad5878dc5"  style="max-width:100%;">REST</a> <br>
-✍️ <a href="https://medium.com/@burcu.bayik98/http-durum-kodlar%C4%B1-e0ac86618291"  style="max-width:100%;">HTTP Durum Kodları</a> <br>
-✍️ <a href="https://medium.com/@burcu.bayik98/multithreading-68ae3fd73c6e"  style="max-width:100%;">MultiThreading</a> <br>
-✍️ <a href="https://medium.com/@burcu.bayik98/http-keywords-326675965679"  style="max-width:100%;">HTTP Keywords</a> <br>
-✍️ <a href="https://medium.com/@burcu.bayik98/spring-boot-validasyon-5b2f9de8740c"  style="max-width:100%;">Spring Boot — Validasyon</a> <br>
-✍️ <a href="https://medium.com/@burcu.bayik98/facade-design-pattern-e0b341a15786"  style="max-width:100%;">Facade Design Pattern</a> <br>
-✍️ <a href="https://medium.com/@burcu.bayik98/javada-lambda-expressions-17f14a30726d"  style="max-width:100%;">Java’da Lambda Expressions</a> <br> 
-✍️ <a href="https://medium.com/@burcu.bayik98/git-temellerine-giri%C5%9F-3984a9589f02"  style="max-width:100%;">Git Temellerine Giriş</a> <br>
-✍️ <a href="https://medium.com/@burcu.bayik98/git-nedir-f13af4e1da56"  style="max-width:100%;">Git Nedir?</a> <br>
-✍️ <a href="https://medium.com/@burcu.bayik98/javada-metot-kullan%C4%B1m%C4%B1-8e6898410751"  style="max-width:100%;">Java’da Metot Kullanımı</a> <br><br>
-👉️ <a href="https://medium.com/@burcu.bayik98"  style="max-width:100%;">Stay Tuned For More</a>
+✍️ <a href="https://medium.com/@burcubayik/rest-17cad5878dc5"  style="max-width:100%;">REST</a> <br>
+✍️ <a href="https://medium.com/@burcubayik/http-durum-kodlar%C4%B1-e0ac86618291"  style="max-width:100%;">HTTP Durum Kodları</a> <br>
+✍️ <a href="https://medium.com/@burcubayik/multithreading-68ae3fd73c6e"  style="max-width:100%;">MultiThreading</a> <br>
+✍️ <a href="https://medium.com/@burcubayik/http-keywords-326675965679"  style="max-width:100%;">HTTP Keywords</a> <br>
+✍️ <a href="https://medium.com/@burcubayik/spring-boot-validasyon-5b2f9de8740c"  style="max-width:100%;">Spring Boot — Validasyon</a> <br>
+✍️ <a href="https://medium.com/@burcubayik/facade-design-pattern-e0b341a15786"  style="max-width:100%;">Facade Design Pattern</a> <br>
+✍️ <a href="https://medium.com/@burcubayik/javada-lambda-expressions-17f14a30726d"  style="max-width:100%;">Java’da Lambda Expressions</a> <br> 
+✍️ <a href="https://medium.com/@burcubayik/git-temellerine-giri%C5%9F-3984a9589f02"  style="max-width:100%;">Git Temellerine Giriş</a> <br>
+✍️ <a href="https://medium.com/@burcubayik/git-nedir-f13af4e1da56"  style="max-width:100%;">Git Nedir?</a> <br>
+✍️ <a href="https://medium.com/@burcubayik/javada-metot-kullan%C4%B1m%C4%B1-8e6898410751"  style="max-width:100%;">Java’da Metot Kullanımı</a> <br><br>
+👉️ <a href="https://medium.com/@burcubayik"  style="max-width:100%;">Stay Tuned For More</a>
 
 
 
