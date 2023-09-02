@@ -7,7 +7,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
  
 <img align="right" alt="GIF" height="220px" src="https://media2.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif?cid=790b7611a92873353aa7405d62986cb96a5d8cebacce5a52&rid=giphy.gif&ct=g" />
 
-
+<p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Profile%20views&color=0e75b6&style=plastic" alt="7oSkaaa" /> 
+	<a href = "https://commits.top/egypt.html" target="_blank">
+		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="7oSkaaa" target="_blank"/> 
+	</a>
+</p>
 ### Skills
 
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
@@ -18,6 +23,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img src="https://miro.medium.com/fit/c/294/294/1*R6jBaoIrvb49knSiTJ7lgA.png" width="36" height="36" alt="SpringBoot" /></a>
 </p>
+
 
 
 ### Socials
