@@ -34,8 +34,23 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <b>My GitHub Stats</b>
 
-<a href="https://github.com/burcubayik" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Burcubayik&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-<a href="http://www.github.com/burcubayik"><img src="https://github-readme-stats.vercel.app/api?username=Burcubayik&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="Burcubayik's GitHub stats" /></a> 
+<summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=burcubayik&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=burcubayik&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="burcubayik" height="192px"/>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+	  <img src="https://github-readme-streak-stats.herokuapp.com/?user=burcubayik&theme=algolia" alt="burcubayik" />
+  </p>
+
+
+<br>
+<br>
+
+
+
 
 
 <h3 align="left">Latest Blog Posts</h3>
@@ -50,6 +65,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ✍️ <a href="https://medium.com/@burcubayik/git-nedir-f13af4e1da56"  style="max-width:100%;">Git Nedir?</a> <br>
 ✍️ <a href="https://medium.com/@burcubayik/javada-metot-kullan%C4%B1m%C4%B1-8e6898410751"  style="max-width:100%;">Java’da Metot Kullanımı</a> <br><br>
 👉️ <a href="https://medium.com/@burcubayik"  style="max-width:100%;">Stay Tuned For More</a>
+
+
+## :trophy: Git profile Trophies
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=burcubayik&layout=compact&theme=algolia" alt="burcubayik" /></a> </p>
+
 
 
 
