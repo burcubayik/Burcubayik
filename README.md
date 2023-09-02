@@ -37,18 +37,17 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=burcubayik&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <img src="https://github-readme-stats.vercel.app/api?username=burcubayik&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" height="192px"/></a>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=burcubayik&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="burcubayik" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=burcubayik&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="burcubayik" height="192px"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-	  <img src="https://github-readme-streak-stats.herokuapp.com/?user=burcubayik&theme=algolia" alt="burcubayik" />
+	  <img src="https://github-readme-streak-stats.herokuapp.com/?user=burcubayik&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="burcubayik" />
   </p>
 
 
 <br>
 <br>
-
 
 
 
